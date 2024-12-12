@@ -1,0 +1,179 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "installed------------",
+    "name": "Better_KSP",
+    "abstract": "Список графических и не только модов.",
+    "author": "Иван",
+    "version": "2024.12.12.10.01.04",
+    "ksp_version_min": "0.23",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "AtmosphereAutopilot",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BallisticFoxsLukewarmTUFXProfile",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BallisticFoxsNeutralTUFXProfile",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BallisticFoxsVintageTUFXProfile",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterKerbol",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterTimeWarpCont",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CameraTools",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityPartsTitles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTechTree",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CraftManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CustomBarnKit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HyperEdit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KcalbelohSystem",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KcalbelohSystem-Textures-4k",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Parallax-OuterPlanetsMod",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine-Config-Default",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReentryParticleEffect",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStockPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RocketSoundEnhancement",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RocketSoundEnhancement-Config-Default",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SCANsat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Shaddy",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SimpleRepaint",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra-EVE64kKerbinClouds",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra-Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra-ScattererJoolShineOnLaythe",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StockWaterfallEffects",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Trajectories",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Waterfall",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallRestock",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2024-12-12T10:01:04.3528393Z",
+    "kind": "metapackage"
+}
